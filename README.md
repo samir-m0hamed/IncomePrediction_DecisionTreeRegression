@@ -41,7 +41,8 @@ The dataset contains demographic, education, employment, and household-related a
 ## 📈 Results
 Due to the synthetic nature of the dataset, the model shows:
 - **Training R² :**  low  
-- **Testing  R² :**   low  
+- **Testing  R² :**   low
+
 This indicates **underfitting**, meaning the dataset lacks strong relationships between features and income.
 
 Despite this, the project demonstrates a clean, end-to-end ML pipeline suitable for learning and experimentation.
@@ -60,6 +61,7 @@ Despite this, the project demonstrates a clean, end-to-end ML pipeline suitable 
 Due to the synthetic nature of the dataset and the selected model ( Decision Tree Regression ) , the model shows **underfitting**, with low R² scores on the both notebooks .  
 - **Income Prediction Project No LogTransformation.ipyn** → Rsquared = 1.68%
 - **Income Prediction Project with Log Trasnfromation.ipyn** → Rsquared = -8.54%
+
 This demonstrates a realistic challenge when datasets lack strong feature–target relationships.
 
 ---
