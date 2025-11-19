@@ -57,7 +57,9 @@ Despite this, the project demonstrates a clean, end-to-end ML pipeline suitable 
 ---
 
 ## 📈 Results
-Due to the synthetic nature of the dataset and the selected model ( Decision Tree Regression ) , the model shows **underfitting**, with low R² scores on both training and testing sets.  
+Due to the synthetic nature of the dataset and the selected model ( Decision Tree Regression ) , the model shows **underfitting**, with low R² scores on the both notebooks .  
+- **Income Prediction Project No LogTransformation.ipyn** → Rsquared = 1.68%
+- **Income Prediction Project with Log Trasnfromation.ipyn** → Rsquared = -8.54%
 This demonstrates a realistic challenge when datasets lack strong feature–target relationships.
 
 ---
