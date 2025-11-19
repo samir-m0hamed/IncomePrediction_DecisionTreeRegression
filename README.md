@@ -49,10 +49,10 @@ Despite this, the project demonstrates a clean, end-to-end ML pipeline suitable 
 ---
 
 ## 📁 Files Included
-**data.csv** → Dataset used for training and tetsing the model
-**Income Prediction Project No LogTransformation.ipynb** →  Main notebook containing full ML workflow without log transformation applied ( higher in the accuracy )
-**Income Prediction with Log Trasnfromation.ipynb** →  Another version of the notebook containing full ML workflow with log transformation applied ( lower in the accuracy )
-**README.md** → Project documentation
+- **data.csv** → Dataset used for training and tetsing the model
+- **Income Prediction Project No LogTransformation.ipynb** →  Main notebook containing full ML workflow without log transformation applied ( higher in the accuracy )
+- **Income Prediction with Log Trasnfromation.ipynb** →  Another version of the notebook containing full ML workflow with log transformation applied ( lower in the accuracy )
+- **README.md** → Project documentation
 
 ---
 
