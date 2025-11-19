@@ -40,8 +40,8 @@ The dataset contains demographic, education, employment, and household-related a
 
 ## 📈 Results
 Due to the synthetic nature of the dataset, the model shows:
-- **Training R²:**  low  
-- **Testing R²:**   low  
+- **Training R² :**  low  
+- **Testing R²  :**   low  
 This indicates **underfitting**, meaning the dataset lacks strong relationships between features and income.
 
 Despite this, the project demonstrates a clean, end-to-end ML pipeline suitable for learning and experimentation.
@@ -50,8 +50,11 @@ Despite this, the project demonstrates a clean, end-to-end ML pipeline suitable 
 
 ## 📁 Files Included
 data.csv → Dataset used for training and tetsing the model
+
 Income Prediction Project No LogTransformation.ipynb →  Main notebook containing full ML workflow without log transformation applied ( higher in the accuracy )
+
 Income Prediction with Log Trasnfromation.ipynb →  Another version of the notebook containing full ML workflow with log transformation applied ( lower in the accuracy )
+
 README.md → Project documentation
 
 ---
